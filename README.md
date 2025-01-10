@@ -3,8 +3,7 @@
 ## Recipe Searching with Python
 
 This repository is now a Python-based application that uses Flask for backend logic. It allows users to search for recipes based on ingredients or preferences.
-![Alt text](https://github.com/kumarranjan78084/Recipe_Searching/blob/master/Screenshot%202024-11-10%20012215.png?raw=true)
-![Alt text](https://github.com/kumarranjan78084/Recipe_Searching/blob/master/Screenshot%202024-11-10%20012230.png?raw=true)
+
 
 ## Features
 - **Recipe Recommendation**: Generate recipes based on input preferences like cuisine type, dietary restrictions, and available ingredients.
@@ -20,7 +19,7 @@ This repository is now a Python-based application that uses Flask for backend lo
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Atul772/recipe-finder.git
+    git clone https://github.com/Atul772/Recipe-Finder.git
     cd recipe-generator
     ```
 
