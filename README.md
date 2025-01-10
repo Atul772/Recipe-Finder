@@ -1,9 +1,18 @@
 # Recipe Generator
 
+## Contributors
+- [Atul](https://github.com/Atul772)
+- [Raviranjan Kumar](https://github.com/kumarranjan78084) 
+
 ## Recipe Searching with Python
 
 This project is a Python-based website that uses Flask for backend logic. It allows users to search for recipes based on ingredients or preferences.
-I have done this project with my friend Raviranjan (@kumarranjan78084), as our project for python course.
+
+## Search Page
+![Search Page](https://github.com/Atul772/Recipe-Finder/blob/main/Search_img.png?raw=true)
+
+## Result Page
+![Result Page](https://github.com/Atul772/Recipe-Finder/blob/main/Result_img.png?raw=true)
 
 
 ## Features
